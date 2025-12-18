@@ -1,5 +1,5 @@
 # Pipeline: Datos no estructurados a estructurados
-![icono](./icons/icon_pipeline.png)
+![icono](./icons/Icon_pipeline.png)
 
 
 
