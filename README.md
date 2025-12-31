@@ -40,6 +40,11 @@ En este caso se requiere una api de Gemini u OpenAI o modelos locales instalados
 - Este código usa [Whisper](https://github.com/openai/whisper) para poder transcribir audio a texto
 - Se usan técnicas de procesamiento de lenguaje natural usando [Spacy](https://spacy.io/models/es)  y sus modelos en español
 
+### NOTA:
+El 14 de Diciembre de 2025, Google cambió radicalmente los límites de uso de su API
+Por lo que se recomienda usar modelos locales 
+
+
 ## Librerías clave
 [Docling](https://docling-project.github.io/docling/) fue la librería clave que ayuda a convertir cualquier documento de texto a Markdown.
 
